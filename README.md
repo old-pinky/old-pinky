@@ -3,4 +3,6 @@
 ## I`m beginner Developer Software 💻
 
 ### Languages 
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Sql](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Golang](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=golang&logoColor=FFFFFF)

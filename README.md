@@ -6,10 +6,11 @@
 ![Pinky's GitHub stats](https://github-readme-stats.vercel.app/api?username=old-pinky&show_icons=true&theme=vision-friendly-dark)
 
 Welcome to my GitHub Profile!❤
+
 I`m interested in developing Software and API service so my activity is primarily related to that :)
 #### My projects:
-    -(soon)"Asynqiwi"- asynchronous library written in Python, allowing you to use api services QIWI (qiwi.com)
-    -...
+    - (soon)"Asynqiwi"- asynchronous library written in Python, allowing you to use api services QIWI (qiwi.com)
+    - ...
 
 
 ### Languages: 

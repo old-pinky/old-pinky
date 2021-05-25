@@ -1,1 +1,1 @@
-[![Header](https://github.com/old-pinky/old-pinky/blob/main/assets/e0bfa5ec269f7be6a8c4ed8dded9731f2212899c.gif)]
+![Header](https://github.com/old-pinky/old-pinky/blob/main/assets/e0bfa5ec269f7be6a8c4ed8dded9731f2212899c.gif)

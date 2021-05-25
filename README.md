@@ -6,8 +6,8 @@
 
 
 ### Languages 
-![Python](https://img.shields.io/badge/-Python-00000?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![Sql](https://img.shields.io/badge/-Sql-000000?style=for-the-badge&logo=sql&logoColor=FFB000)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Sql](https://img.shields.io/badge/-Sql-000000?style=for-the-badge&logo=mysql&logoColor=FFB000)
 ![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go&logoColor=785ef0)
 
 ### Contacts

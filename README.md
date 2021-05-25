@@ -2,8 +2,14 @@
 
 ## I`m beginner Developer Software 💻
 
+![Pinky's GitHub stats](https://github-readme-stats.vercel.app/api?username=old-pinky&show_icons=true&theme=vision-friendly-dark)
+
+
 ### Languages 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go&logoColor=FFFFFF)
+![Sql](https://img.shields.io/badge/-Sql-FFB000?style=for-the-badge&logo=sql&logoColor=FFFFFF)
+![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go&logoColor=785ef0)
 
+### Contacts
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)(https://vk.com/pinky_senpai)
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)(https://t.me/senpai_pinky)

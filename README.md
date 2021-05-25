@@ -3,4 +3,4 @@
 ## I`m beginner Developer Software 💻
 
 ### Languages 
-![Python](https://img.shields.io/badge/-Python-090909)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)

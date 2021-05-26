@@ -1,6 +1,6 @@
 ![Header](https://github.com/old-pinky/old-pinky/blob/main/assets/e0bfa5ec269f7be6a8c4ed8dded9731f2212899c.gif)
 
-## Hi, beginner Developer Software 💻
+## Hi, i`m beginner Developer Software 💻
 
 
 ![Pinky's GitHub stats](https://github-readme-stats.vercel.app/api?username=old-pinky&show_icons=true&theme=vision-friendly-dark)
@@ -10,6 +10,7 @@ Welcome to my GitHub Profile!❤
 I`m interested in developing Software and API service so my activity is primarily related to that :)
 #### My projects:
     - (soon)"Asynqiwi"- asynchronous library written in Python, allowing you to use api services QIWI (qiwi.com)
+    
     - ...
 
 
